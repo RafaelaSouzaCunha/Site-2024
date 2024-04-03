@@ -3,7 +3,7 @@
 body
 
 {
-  background-image: Linear-gradient(to bottom, pink, violet);
+  background-image: Linear-gradient (to bottom bottom, red, blue);
   color:black;
   font-size: 12pt;
   font-family: Arial;
