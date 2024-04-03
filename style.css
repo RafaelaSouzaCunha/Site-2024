@@ -1,5 +1,7 @@
 @charset "UTF-8";
+
 body
+
 {
   background-image: Linear-grdient(to bottom, pink, violet);
   color:black;
